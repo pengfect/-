@@ -1,0 +1,23 @@
+Step 1: Neural Network;
+Step 2: Cost Function:
+Step 3: Optimization;
+
+Basci structure(3/03)
+ Fully Connected Layer
+ Recurrent Structure
+ Convolutional/Pooling Layer
+
+Special Structure(3/17)
+  Spatial Transformation Layer
+  Highway Network/Grid LSTM
+  Recurisive Structure
+  External Memory
+  Batch Normalization
+  Sequence-to-Sequence/Attention(3/24)
+
+Prerequisite:
+ Brief Introduction of Deep Learning
+ Convolutional Neural Network
+ Recurrent Neural Network
+ Recurrent Neural Network
+  
